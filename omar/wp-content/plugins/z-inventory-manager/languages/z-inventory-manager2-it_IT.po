@@ -1,0 +1,224 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Z Inventory Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-03-08 15:50+0000\n"
+"PO-Revision-Date: 2019-03-08 15:50+0000\n"
+"Last-Translator: demoweb <info@demoweb.it>\n"
+"Language-Team: Italiano\n"
+"Language: it-IT\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.1"
+
+msgid "Access Permissions"
+msgstr ""
+
+msgid "Active"
+msgstr ""
+
+msgid "Add Item"
+msgstr "Aggiungi articolo"
+
+msgid "Add More Items"
+msgstr ""
+
+msgid "Administrator"
+msgstr ""
+
+msgid "Archived"
+msgstr ""
+
+msgid "Auto-Generate Purchase Numbers"
+msgstr "Numero acquisto autogenerato"
+
+msgid "Auto-Generate Sale Numbers"
+msgstr "Numero vendita autogenerato"
+
+msgid "Database Error"
+msgstr ""
+
+msgid "Date"
+msgstr "Data"
+
+msgid "Date and Time"
+msgstr "Data e ora"
+
+msgid "Days"
+msgstr "Giorni"
+
+msgid "Delete"
+msgstr "Cancella"
+
+msgid "Edit Items"
+msgstr ""
+
+msgid "Edit Purchase"
+msgstr ""
+
+msgid "Edit Sale"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Finance"
+msgstr ""
+
+#  hort Friday, short Friday
+msgid "Fri"
+msgstr "VEN"
+
+msgid "Hours"
+msgstr "Ore"
+
+msgid "Inventory"
+msgstr "Inventario"
+
+msgid "Inventory Updated"
+msgstr ""
+
+msgid "Item"
+msgstr "Articolo"
+
+msgid "Items Received"
+msgstr ""
+
+msgid "Items Shipped"
+msgstr ""
+
+msgid "Menu"
+msgstr ""
+
+msgid "Minutes"
+msgstr "Minuti"
+
+#  hort Monday, short Monday
+msgid "Mon"
+msgstr "LUN"
+
+msgid "New Item"
+msgstr "Nuovo articolo"
+
+msgid "New Purchase"
+msgstr ""
+
+msgid "New Sale"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Not Allowed"
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+msgid "Plain Text"
+msgstr ""
+
+msgid "Purchase"
+msgstr ""
+
+msgid "Purchase Receipt"
+msgstr ""
+
+msgid "Purchase Saved"
+msgstr ""
+
+msgid "Purchase Updated"
+msgstr "Acquisto aggiornato"
+
+msgid "Purchases"
+msgstr "Acquisti"
+
+msgid "Quantity"
+msgstr "Quantità"
+
+msgid "Random"
+msgstr "Casuale"
+
+msgid "Receive Items"
+msgstr "Ricezione articoli"
+
+msgid "Received Items"
+msgstr "Ricevuti articoli"
+
+msgid "Refno"
+msgstr ""
+
+msgid "Required Field"
+msgstr "Campo richiesto"
+
+msgid "SKU"
+msgstr "COD UNIVOCO"
+
+msgid "Sale"
+msgstr ""
+
+msgid "Sale Saved"
+msgstr ""
+
+msgid "Sale Shipment"
+msgstr ""
+
+msgid "Sale Updated"
+msgstr ""
+
+msgid "Sales"
+msgstr "Vendite"
+
+#  hort Saturday, short Saturday
+msgid "Sat"
+msgstr "SAB"
+
+msgid "Save"
+msgstr "Salva"
+
+msgid "Sequential"
+msgstr "Sequenziale"
+
+msgid "Settings"
+msgstr "Configurazione"
+
+msgid "Settings Saved"
+msgstr ""
+
+msgid "Settings Updated"
+msgstr ""
+
+msgid "Ship Items"
+msgstr "Articoli spediti"
+
+msgid "Shipped Items"
+msgstr "Articoli spediti"
+
+#  hort Sunday, short Sunday
+msgid "Sun"
+msgstr "DOM"
+
+msgid "This value is already used"
+msgstr "Valore già in uso"
+
+#  hort Thursday, short Thursday
+msgid "Thu"
+msgstr "GIO"
+
+msgid "Title"
+msgstr "Titolo"
+
+#  hort Tuesday, short Tuesday
+msgid "Tue"
+msgstr "MAR"
+
+#  hort Wednesday, short Wednesday
+msgid "Wed"
+msgstr "MER"
+
+msgid "Weeks"
+msgstr "Settimane"
+

@@ -1,0 +1,1 @@
+INSERT INTO `user_dim` (`UserID`, `UserEmail`, `UserPassword`, `UserName`, `UserAddress`, `UserCountry`, `UserZip`, `UserMainGame`, `UserMainPosition`, `UserInGameUsername`) VALUES (NULL, 'xx@xx.com', '123456', 'xx', 'xx', 'xx', 'xx', 'DOTA', 'mid', 'xxdota');

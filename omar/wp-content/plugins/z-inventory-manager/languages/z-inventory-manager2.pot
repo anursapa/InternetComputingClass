@@ -1,0 +1,203 @@
+
+msgid "Access Permissions"
+msgstr ""
+
+msgid "Active"
+msgstr ""
+
+msgid "Add Item"
+msgstr ""
+
+msgid "Add More Items"
+msgstr ""
+
+msgid "Administrator"
+msgstr ""
+
+msgid "Archived"
+msgstr ""
+
+msgid "Auto-Generate Purchase Numbers"
+msgstr ""
+
+msgid "Auto-Generate Sale Numbers"
+msgstr ""
+
+msgid "Database Error"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "Date and Time"
+msgstr ""
+
+msgid "Days"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Edit Items"
+msgstr ""
+
+msgid "Edit Purchase"
+msgstr ""
+
+msgid "Edit Sale"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Finance"
+msgstr ""
+
+msgid "Fri"
+msgstr ""
+
+msgid "Hours"
+msgstr ""
+
+msgid "Inventory"
+msgstr ""
+
+msgid "Inventory Updated"
+msgstr ""
+
+msgid "Item"
+msgstr ""
+
+msgid "Items Received"
+msgstr ""
+
+msgid "Items Shipped"
+msgstr ""
+
+msgid "Menu"
+msgstr ""
+
+msgid "Minutes"
+msgstr ""
+
+msgid "Mon"
+msgstr ""
+
+msgid "New Item"
+msgstr ""
+
+msgid "New Purchase"
+msgstr ""
+
+msgid "New Sale"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Not Allowed"
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+msgid "Plain Text"
+msgstr ""
+
+msgid "Purchase"
+msgstr ""
+
+msgid "Purchase Receipt"
+msgstr ""
+
+msgid "Purchase Saved"
+msgstr ""
+
+msgid "Purchase Updated"
+msgstr ""
+
+msgid "Purchases"
+msgstr ""
+
+msgid "Quantity"
+msgstr ""
+
+msgid "Random"
+msgstr ""
+
+msgid "Receive Items"
+msgstr ""
+
+msgid "Received Items"
+msgstr ""
+
+msgid "Refno"
+msgstr ""
+
+msgid "Required Field"
+msgstr ""
+
+msgid "SKU"
+msgstr ""
+
+msgid "Sale"
+msgstr ""
+
+msgid "Sale Saved"
+msgstr ""
+
+msgid "Sale Shipment"
+msgstr ""
+
+msgid "Sale Updated"
+msgstr ""
+
+msgid "Sales"
+msgstr ""
+
+msgid "Sat"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Sequential"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Settings Saved"
+msgstr ""
+
+msgid "Settings Updated"
+msgstr ""
+
+msgid "Ship Items"
+msgstr ""
+
+msgid "Shipped Items"
+msgstr ""
+
+msgid "Sun"
+msgstr ""
+
+msgid "This value is already used"
+msgstr ""
+
+msgid "Thu"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Tue"
+msgstr ""
+
+msgid "Wed"
+msgstr ""
+
+msgid "Weeks"
+msgstr ""
+
+
